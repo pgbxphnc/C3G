@@ -1,3 +1,5 @@
 /test/
 /__pycache__/
 /.idea/
+train_dialog.ui
+Yolo_GUI_UI.ui
